@@ -10,6 +10,7 @@ class MainClass {
 
     Console.Write ("Digite o primeiro numero:   ");
     n1 = float.Parse(Console.ReadLine());
+    
 
     Console.Write ("Digite o segundo numero:    ");
     n2 = float.Parse(Console.ReadLine());
